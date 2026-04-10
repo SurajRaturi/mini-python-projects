@@ -2,7 +2,7 @@ import random as r
 from datetime import datetime,timedelta
 score=0
 start_time=datetime.now()
-end_time=(start_time + timedelta(seconds=5))#game run for 10seconds after start
+end_time=(start_time + timedelta(seconds=5))#game run for 5seconds after start
 print("----🎲 SMART DICE ROLLER 🎲----")
 print("Rules 📝 \n1.Game run for 10 seconds.\n2.Dice would roll randomly each time you choose Y.\n3.When outcomes are 1 or 6 then playing time increase by +1sec.")
 while datetime.now()<end_time:
