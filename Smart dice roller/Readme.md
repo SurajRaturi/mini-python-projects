@@ -1,21 +1,21 @@
-# Smart Dice Roller🎲
+# Smart Dice Roller 🎲
 
-# #Rules📝
+## Rules 📝
 
-• Dice would roll randomly on choosing Y for 10seconds.
-• For each outcome as 1 and 6 ,player get the bonus +1sec added into total playing time.
-• If someone chooses N instead of Y , then the player simply come out of loop(game).
+- Dice will roll randomly when the user chooses `Y` for 10 seconds.  
+- For each outcome of **1** or **6**, the player gets a bonus of **+1 second** added to the total playing time.  
+- If the user chooses `N` instead of `Y`, the game exits the loop.  
 
-## Module Used📂
+---
 
-• Random module
-• Datetime module
+## Modules Used 📂
 
-## Future enhancements✨
+- `random` module  
+- `datetime` module  
 
-• Adding file handling concept could helps to preserve the highest record to compete next time.
-• Edge cases should be resolved.
->>>>>>> 24c5a886ff534f181ca311bbcc41f8280a5e2d7c
+---
 
+## Future Enhancements ✨
 
-
+- Add file handling to store the highest score for future gameplay  
+- Handle edge cases more effectively  
