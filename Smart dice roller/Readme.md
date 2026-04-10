@@ -6,7 +6,7 @@
 <b>Module Used</b><br>
 •	Random module<br>
 •	Datetime module<br>
-<b>Future enhancements</b>
+<b>Future enhancements</b><br>
 •	Adding file handling concept could helps to preserve the highest record to compete next time.<br>
 •	Edge cases should be resolved.<br>
 
