@@ -1,4 +1,4 @@
-<u><h1>Smart Dice Roller</h1></u><br>
+<h1><u>Smart Dice Roller</u></h1><br>
 <b>Rules</b><br>
 •	Dice would roll randomly on choosing Y for 10seconds.<br>
 •	For each outcome as 1 and 6 ,player get the bonus +1sec added into total playing time.<br>
