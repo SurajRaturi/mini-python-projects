@@ -8,14 +8,13 @@
 
 ---
 
-## Modules Used 📂
+## Technologies Used
 
+- Python
 - `random` module  
 - `datetime` module  
 
 ---
 
 ## Future Enhancements ✨
-
-- Add file handling to store the highest score for future gameplay  
-- Handle edge cases more effectively  
+- Handle edge cases more effectively.  
