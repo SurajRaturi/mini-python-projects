@@ -14,6 +14,10 @@ A mini Python game that uses modules like `random` and `datetime`.
 A simple python program which generate random otp and valid it through time.
 👉 [View Project]./https://github.com/SurajRaturi/mini-python-projects/tree/b2b980df7eb4b9ac8e677a71b093f25f58bdfb07/OTP%20Generator
 
+### 3. Flask-app-basic ⚙️
+A simple flask-python based app which perform CRUD application using http methods.
+👉 [View Project].https://github.com/SurajRaturi/mini-python-projects/tree/b3654f22eb06f1f72be46b8f7ae694e0fa5a0592/Flask-api-basic
+
 ---
 
 ## How to Use
